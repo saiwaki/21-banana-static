@@ -2,7 +2,6 @@ html, body {
 	width: 100%;
   height: 100%;
 }
-
 body {
   margin: 0;
   font-size: 14px;
@@ -10,11 +9,9 @@ body {
   background-color: #f4f9ea;
   color: #555;
 }
-
 h1,h2,h3,h4,h5 {
   margin: 0;
 }
-
 a {
   color: #316eb6;
   text-decoration: none
@@ -22,9 +19,11 @@ a {
 a:hover {
   color: #1d487b;
 }
-
 ul {
   margin:0;
   padding:0;
   list-style: none;
+}
+.clear {
+  clear: both;
 }
